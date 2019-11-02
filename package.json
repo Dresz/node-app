@@ -1,0 +1,30 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "test ",
+  "main": "mocha",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dresz/node-app.git"
+  },
+  "keywords": [
+    "mocha",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dresz/node-app/issues"
+  },
+  "homepage": "https://github.com/Dresz/node-app#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
